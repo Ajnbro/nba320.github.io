@@ -1,3 +1,4 @@
+title: NBA MVP Prediction
 plugins:
   - jekyll-relative-links
 relative_links:
@@ -5,4 +6,3 @@ relative_links:
   collections: true
 include:
   - index.html
-title: NBA MVP Prediction
