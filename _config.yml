@@ -4,4 +4,4 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - Final Project Notebook.md
+  - index.html
